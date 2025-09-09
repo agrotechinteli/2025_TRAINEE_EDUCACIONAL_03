@@ -8,7 +8,7 @@ description: "Guia de formatação para padronização da documentação"
 
 ## 📌 Imagens
 
-Para inserir imagens na documentação, utilize a seguinte estrutura:
+Para inserir imagens na documentação, utilize a seguinte estrutura :
 
 ```jsx
 <p style={{textAlign: 'center'}}>Figura 1 - Canvas Proposta de Valor</p>
