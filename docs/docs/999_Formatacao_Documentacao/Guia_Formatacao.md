@@ -26,9 +26,8 @@ Para inserir imagens na documentação, utilize a seguinte estrutura:
 <p style={{textAlign: 'center'}}>Figura 1 - Canvas Proposta de Valor</p>
 <div style={{margin: 25}}>
     <div style={{textAlign: 'center'}}>
-        <img src={require("../../static/img/pablo.png").default} style={{width: 800}} alt="Canvas Proposta de valor" />
-        <br />
-    </div>
+    IMAGEM AQUI
+</div>
 </div>
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
