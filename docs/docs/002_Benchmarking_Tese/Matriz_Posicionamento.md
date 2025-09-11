@@ -23,7 +23,7 @@ description: "Matriz de posicionamento competitivo das empresas analisadas"
 
 <p style={{ textAlign: 'center' }}>Figura 1 - Matriz de Posicionamento</p>
 <div style={{ margin: 25, textAlign: 'center' }}>
-    ![Texto Alternativo da Imagem](/img/Matriz.png)
+    ![Texto Alternativo da Imagem](/img/matriz.png)
 </div>
 <p style={{ textAlign: 'center' }}>Fonte: Os autores (2025)</p>
 
@@ -42,5 +42,5 @@ description: "Matriz de posicionamento competitivo das empresas analisadas"
 - **Liderança da Syngenta:** A empresa combina inovação em soluções digitais/biológicas com forte presença no campo, o que a coloca em posição de liderança competitiva, com foco em inovação e com uma excelente estratégia de canal a deixando na liderança entre as concorrentes.
 - **Oportunidade para Bayer:** Apesar da alta inovação, a dependência de canais indiretos pode ser um limitador estratégico para crescimento e fidelização do produtor.
 - **Risco para BASF:** O foco em soluções químicas tradicionais pode reduzir competitividade no longo prazo, se não houver investimento em digitalização e biológicos.
-- **Potencial da Corteva:** Há espaço para Corteva se aproximar ainda mais da Syngenta se acelerar investimentos em inovação digital, pois há grandes pontos positivos que fará ela alanvacar se acelerar os investimentos em soluções de inovação digital.
-- **Conclusão:** O setor está migrando para um modelo mais integrado e digital, o que torna estratégico para Syngenta continuar liderando esse movimento, ampliando sua plataforma de dados e oferecendo soluções cada vez mais personalizadas, atualmente no mercado destaca-se empresas com investimentos em tecnológias e e soluções digitais e biológicas diretamente ao produtor, em vez de apenas produtos químicos por meio de canais indiretos.
+- **Potencial da Corteva:** Há espaço para Corteva se aproximar ainda mais da Syngenta se acelerar investimentos em inovação digital, pois há grandes pontos positivos que fará ela alavancar se acelerar os investimentos em soluções de inovação digital.
+- **Conclusão:** O setor está migrando para um modelo mais integrado e digital, o que torna estratégico para Syngenta continuar liderando esse movimento, ampliando sua plataforma de dados e oferecendo soluções cada vez mais personalizadas, atualmente no mercado destaca-se empresas com investimentos em tecnologias e em soluções digitais e biológicas diretamente ao produtor, em vez de apenas produtos químicos por meio de canais indiretos.
