@@ -43,12 +43,26 @@ description: "Tese de escolha da empresa para análise detalhada"
 
 ### Produto/Linha para Análise
 
-[Preencher indicando qual produto será analisado na próxima etapa]
+&emsp; A análise de ticket médio se concentrará na linha de Fungicidas para a cultura da soja.
+
+&emsp; A escolha desta linha de produtos é estratégica, pois a soja é a principal commodity agrícola do Brasil, o que a torna um mercado relevante e com um alto volume de dados. Além disso, o segmento de fungicidas possui um valor agregado significativo e é um campo de intensa competição, permitindo uma análise rica e complexa sobre o posicionamento de preço da Syngenta em comparação com seus concorrentes.
 
 ### Fontes de Dados Identificadas
 
-[Preencher com principais fontes para análise de ticket médio]
+&emsp; Para a análise de ticket médio, a principal dificuldade é a ausência de dados públicos detalhados sobre o preço de produtos específicos, por terem grande portfólio e preços variados. Portanto, as fontes de dados serão uma combinação de informações oficiais da empresa e de análises de mercado:
+
+&emsp; Relatórios e Apresentações de Resultados da Syngenta: Podem conter informações sobre o desempenho de categorias de produtos e volumes de vendas, ajudando a calcular o ticket médio por estimativa.
+
+&emsp; Dados e Análises de vendas: Avaliar os fungicidas mais vendidos e fazer uma média por vários canais de vendas agrícolas o que pode fornecer estimativas do valor de mercado de fungicidas, que são essenciais para a análise.
+
+&emsp; Publicações e Portais de Notícias do Agronegócio e redes sociais: Revistas e portais como Agrofy News e também redes sociais frequentemente publicam artigos e reportagens sobre preços de defensivos e tendências de mercado, o que pode ajudar nas análises.
+
+&emsp; Informações de Cooperativas e Distribuidores: Embora mais difíceis de obter, essas fontes podem fornecer dados mais próximos do preço final pago pelo produtor.
 
 ### Desafios Antecipados
 
-[Preencher com limitações ou desafios identificados]
+&emsp; Disponibilidade e Precisão dos Dados: O principal desafio será a falta de dados de preços específicos por produto e por região, já que as empresas não divulgam essas informações publicamente. A análise terá de se basear em estimativas e dados agregados, e será gerado uma média.
+
+&emsp; Variação de Preços: O ticket médio de um fungicida pode variar significativamente dependendo de fatores como a região, o canal de distribuição, o volume de compra do produtor e promoções. Ignorar essas variações pode levar a uma análise superficial, e não tão precisa então tem que se atentar a todos esses pontos ao analisar.
+
+&emsp; Análise de Descontos e Pacotes: Muitas empresas vendem seus produtos em pacotes combinados ou oferecem descontos significativos, principalmente por diferentes fornecedores da marca. Isolar o preço real de um único produto em um pacote pode ser um grande desafio.
