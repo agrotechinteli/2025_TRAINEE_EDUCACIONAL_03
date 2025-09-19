@@ -72,3 +72,4 @@ Para a próxima etapa de análise de ticket médio, será analisada a **linha de
 - **Sazonalidade**: O mercado agrícola apresenta forte sazonalidade que impacta volumes e preços
 - **Segmentação de Produtos**: Dificuldade para obter dados granulares por produto específico dentro das categorias amplas
 - **Conversão de Moedas**: Necessidade de normalizar dados em diferentes moedas e considerar volatilidade cambial
+
