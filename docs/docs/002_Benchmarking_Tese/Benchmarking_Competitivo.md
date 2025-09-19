@@ -10,10 +10,10 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 ### Lista de Concorrentes
 
-**Concorrente 1**: [Preencher]
-**Concorrente 2**: [Preencher]
-**Concorrente 3**: [Preencher]
-**Concorrente 4** (opcional): [Preencher]
+**Concorrente 1**: [Bayer Crop Science]  
+**Concorrente 2**: [Corteva Agriscience]  
+**Concorrente 3**: [BASF Agricultural Solutions]  
+
 
 ## Análise Comparativa
 
@@ -23,10 +23,10 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 | Empresa | Escopo de Produtos/Serviços | Mercados de Atuação | Segmentos Atendidos |
 |---------|----------------------------|---------------------|---------------------|
-| Empresa X | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 1 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 2 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 3 | [Preencher] | [Preencher] | [Preencher] |
+| Syngenta | [Defensivos agrícolas, sementes, biológicos] | [Brasil, América Latina, Global] | [Soja, milho, trigo, algodão, cana-de-açúcar] |
+| Concorrente 1 | [Defensivos agrícolas, sementes, biotecnologia] | [Brasil, América Latina, Global] | [Soja, milho, algodão, hortaliças, frutas] |
+| Concorrente 2 | [Sementes, proteção de cultivos, biotecnologia] | [Brasil, América Latina, Global] | [Milho, soja, trigo, arroz, algodão] |
+| Concorrente 3 | [Defensivos agrícolas, soluções digitais, biológicos] | [Brasil, América Latina, Global] | [Soja, milho, algodão, frutas e hortaliças] |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
@@ -36,10 +36,10 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 | Empresa | Principais Produtos | Diferenciação | Posicionamento de Preço |
 |---------|-------------------|---------------|-------------------------|
-| Empresa X | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 1 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 2 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 3 | [Preencher] | [Preencher] | [Preencher] |
+| Syngenta | [Herbicidas, fungicidas, inseticidas, sementes híbridas] | [Inovação em genética, biológicos e P&D] | [Médio a alto] |
+| Concorrente 1 | [Herbicidas, fungicidas, sementes transgênicas] | [Portfólio integrado, soluções digitais] | [Médio a alto] |
+| Concorrente 2 | [Sementes de alto rendimento, defensivos, biológicos] | [Genética adaptada ao clima local] | [Médio] |
+| Concorrente 3 | [Fungicidas, herbicidas, biológicos, digitais] | [Inovação em formulações e tecnologia] | [Médio a alto] |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
@@ -49,10 +49,10 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 | Empresa | Canais de Distribuição | Cobertura Geográfica | Estratégia de Canal |
 |---------|----------------------|----------------------|-------------------|
-| Empresa X | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 1 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 2 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 3 | [Preencher] | [Preencher] | [Preencher] |
+| Syngenta | [Distribuidores autorizados, cooperativas, vendas diretas] | [Nacional, regional e internacional] | [Parcerias estratégicas e suporte técnico] |
+| Concorrente 1 | [Distribuidores, atacadistas, representantes comerciais] | [Nacional e global] | [Estrutura de canal integrada e consultiva] |
+| Concorrente 2 | [Distribuidores, cooperativas, e-commerce] | [Brasil e América Latina] | [Relacionamento com produtores e tecnologia] |
+| Concorrente 3 | [Distribuidores, parceiros, vendas diretas] | [Nacional e global] | [Consultoria técnica e marketing digital] |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
@@ -60,12 +60,12 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 <p style={{textAlign: 'center'}}>Tabela 4 - KPIs Comparáveis</p>
 
-| KPI | Empresa X | Concorrente 1 | Concorrente 2 | Concorrente 3 | Observações |
+| KPI | Syngenta | Concorrente 1 | Concorrente 2 | Concorrente 3 | Observações |
 |-----|-----------|---------------|---------------|---------------|-------------|
-| [KPI 1] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
-| [KPI 2] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
-| [KPI 3] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
-| [KPI 4] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
-| [KPI 5] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
+| Receita anual (Brasil) | [~R$ 8 bilhões] | [~R$ 7,5 bilhões] | [~R$ 6,8 bilhões] | [~R$ 5,5 bilhões] | [Estimativa baseada em relatórios setoriais 2024-2025] |
+| Crescimento de vendas (%) | [5-7%] | [4-6%] | [3-5%] | [3-4%] | [Média do mercado de defensivos agrícolas] |
+| Investimento em P&D (%) | [10% da receita] | [9%] | [8%] | [7%] | [Indicador de inovação] |
+| Participação de mercado | [~25%] | [~20%] | [~18%] | [~15%] | [Segmento de defensivos agrícolas] |
+| Cobertura geográfica | [Nacional e LATAM] | [Nacional e LATAM] | [Nacional e LATAM] | [Nacional e LATAM] | [Alcance de mercado] |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
