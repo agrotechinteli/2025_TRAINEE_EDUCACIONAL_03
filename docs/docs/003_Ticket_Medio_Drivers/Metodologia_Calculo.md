@@ -18,23 +18,24 @@ O ticket médio do fungicida Elatus® está sendo definido como o **preço médi
 
 **Fórmula**: 
 
-**TM = (∑(Pi × Qi × Fci × Fri × Fsi)) / (∑(Qi))**
+$$TM = \frac{\sum_{i=1}^{n} (P_i \times Q_i \times F_{ci} \times F_{ri} \times F_{si})}{\sum_{i=1}^{n} Q_i}$$
 
 Onde:
-- **TM** = Ticket Médio (R$/litro)
-- **Pi** = Preço base de fábrica do produto na transação i
-- **Qi** = Quantidade vendida na transação i (litros)
-- **Fci** = Fator de canal (margem do distribuidor na transação i)
-- **Fri** = Fator regional (ajuste por custos logísticos na região i)
-- **Fsi** = Fator sazonal (ajuste por período de venda na transação i)
+- $TM$ = Ticket Médio (R$/litro)
+- $P_i$ = Preço base de fábrica do produto na transação $i$
+- $Q_i$ = Quantidade vendida na transação $i$ (litros)
+- $F_{ci}$ = Fator de canal (margem do distribuidor na transação $i$)
+- $F_{ri}$ = Fator regional (ajuste por custos logísticos na região $i$)
+- $F_{si}$ = Fator sazonal (ajuste por período de venda na transação $i$)
+- $n$ = Número total de transações na amostra
 
 ### Variáveis
 
-- **Preço Base de Fábrica (Pi)**: Preço de venda da Syngenta para o canal de distribuição, já incluindo custos de produção e margem da empresa
-- **Quantidade (Qi)**: Volume comercializado em litros, usado como peso para cálculo da média ponderada
-- **Fator de Canal (Fci)**: Multiplicador que representa a margem do canal (distribuidores, cooperativas, revendas), variando entre 1,15 a 1,25
-- **Fator Regional (Fri)**: Ajuste por custos de frete e logística, variando entre 1,02 a 1,08 dependendo da distância das plantas industriais
-- **Fator Sazonal (Fsi)**: Multiplicador sazonal, sendo 1,0 na alta temporada (set-jan) e 0,90-0,95 na baixa temporada (fev-ago)
+- **Preço Base de Fábrica** ($P_i$): Preço de venda da Syngenta para o canal de distribuição, já incluindo custos de produção e margem da empresa
+- **Quantidade** ($Q_i$): Volume comercializado em litros, usado como peso para cálculo da média ponderada
+- **Fator de Canal** ($F_{ci}$): Multiplicador que representa a margem do canal (distribuidores, cooperativas, revendas), variando entre 1,15 a 1,25
+- **Fator Regional** ($F_{ri}$): Ajuste por custos de frete e logística, variando entre 1,02 a 1,08 dependendo da distância das plantas industriais
+- **Fator Sazonal** ($F_{si}$): Multiplicador sazonal, sendo 1,0 na alta temporada (set-jan) e 0,90-0,95 na baixa temporada (fev-ago)
 
 ## Amostra e Dados
 
