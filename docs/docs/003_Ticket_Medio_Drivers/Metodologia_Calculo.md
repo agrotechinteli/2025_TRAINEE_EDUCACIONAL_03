@@ -11,15 +11,6 @@ description: "Metodologia utilizada para cálculo do ticket médio"
 [Preencher explicando como o ticket médio está sendo definido - preço por unidade, por hectare, por tonelada, etc.]
 
 
-<<<<<<< Updated upstream
-**Fórmula**: [Preencher com fórmula matemática]
-
-### Variáveis
-
-- **Variável 1**: [Preencher]
-- **Variável 2**: [Preencher]
-- **Variável 3**: [Preencher]
-=======
 ### Fórmula Utilizada
 
 **Fórmula**:
@@ -55,7 +46,6 @@ Onde:
 - **Fator Regional (F_ri):** Ajuste por custos de frete, variando entre 1,02 a 1,08.
 
 - **Fator Sazonal (F_si):** Multiplicador sazonal, sendo 1,0 na alta temporada (set-jan) e 0,90-0,95 na baixa temporada (fev-ago).
->>>>>>> Stashed changes
 
 ## Amostra e Dados
 
