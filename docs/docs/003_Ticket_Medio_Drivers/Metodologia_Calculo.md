@@ -14,28 +14,42 @@ O ticket médio do fungicida Elatus® está sendo definido como o **preço médi
 
 **Período de Referência**: Safra agrícola 2024/2025
 
-## Fórmula Utilizada
 
-**Fórmula**: 
+### Fórmula Utilizada
 
-$$TM = \frac{\sum_{i=1}^{n} (P_i \times Q_i \times F_{ci} \times F_{ri} \times F_{si})}{\sum_{i=1}^{n} Q_i}$$
+**Fórmula**:
+
+```math
+TM = \frac{\sum_{i=1}^{n} (P_i \times Q_i \times F_{ci} \times F_{ri} \times F_{si})}{\sum_{i=1}^{n} Q_i}
+
+```
 
 Onde:
-- $TM$ = Ticket Médio (R$/litro)
-- $P_i$ = Preço base de fábrica do produto na transação $i$
-- $Q_i$ = Quantidade vendida na transação $i$ (litros)
-- $F_{ci}$ = Fator de canal (margem do distribuidor na transação $i$)
-- $F_{ri}$ = Fator regional (ajuste por custos logísticos na região $i$)
-- $F_{si}$ = Fator sazonal (ajuste por período de venda na transação $i$)
-- $n$ = Número total de transações na amostra
+- TM = Ticket Médio (R$/litro)
+
+- P_i = Preço base de fábrica do produto na transação i
+
+- Q_i = Quantidade vendida na transação i (litros)
+
+- F_ci = Fator de canal (margem do distribuidor na transação i)
+
+- F_ri = Fator regional (ajuste por custos logísticos na região i)
+
+- F_si = Fator sazonal (ajuste por período de venda na transação i)
+
+- n = Número total de transações na amostra
 
 ### Variáveis
 
-- **Preço Base de Fábrica** ($P_i$): Preço de venda da Syngenta para o canal de distribuição, já incluindo custos de produção e margem da empresa
-- **Quantidade** ($Q_i$): Volume comercializado em litros, usado como peso para cálculo da média ponderada
-- **Fator de Canal** ($F_{ci}$): Multiplicador que representa a margem do canal (distribuidores, cooperativas, revendas), variando entre 1,15 a 1,25
-- **Fator Regional** ($F_{ri}$): Ajuste por custos de frete e logística, variando entre 1,02 a 1,08 dependendo da distância das plantas industriais
-- **Fator Sazonal** ($F_{si}$): Multiplicador sazonal, sendo 1,0 na alta temporada (set-jan) e 0,90-0,95 na baixa temporada (fev-ago)
+- **Preço Base de Fábrica (P_i):** Preço de venda da Syngenta para o canal de distribuição, incluindo custos e margem da empresa.
+
+- **Quantidade (Q_i):** Volume comercializado em litros, usado como peso para a média ponderada.
+
+- **Fator de Canal (F_ci):** Multiplicador da margem do canal (distribuidores, cooperativas), variando entre 1,15 a 1,25.
+
+- **Fator Regional (F_ri):** Ajuste por custos de frete, variando entre 1,02 a 1,08.
+
+- **Fator Sazonal (F_si):** Multiplicador sazonal, sendo 1,0 na alta temporada (set-jan) e 0,90-0,95 na baixa temporada (fev-ago).
 
 ## Amostra e Dados
 
