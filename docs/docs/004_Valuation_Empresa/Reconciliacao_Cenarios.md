@@ -14,63 +14,59 @@ description: "Reconciliação das metodologias e análise de cenários"
 
 | Metodologia | Valor por Ação | Peso Atribuído | Valor Ponderado |
 |-------------|----------------|----------------|-----------------|
-| Metodologia 1 | [Valor] | [%] | [Valor] |
-| Metodologia 2 | [Valor] | [%] | [Valor] |
-| Metodologia 3 | [Valor] | [%] | [Valor] |
-| **Valor Final** | - | **100%** | **[Valor Final]** |
+| Metodologia 1 (DCF) | N/A (Equity $101.1 Bi) | 50% | $50.6 Bi |
+| Metodologia 2 (Múltiplos de Mercado) | N/A (Equity $96.8 Bi) | 30% | $29.0 Bi |
+| Metodologia 3 (Transações Precedentes) | N/A (Equity $108.3 Bi) | 20% | $21.7 Bi |
+| **Valor Final** | - | **100%** | **$101.3 Bi** |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
 ### Justificativa dos Pesos
 
-[Preencher explicando por que cada metodologia recebeu determinado peso]
+&Agrave;tribu&iacute;mos **50%** ao DCF por capturar o valor intr&iacute;nseco com base em premissas operacionais pr&oacute;prias e permitir an&aacute;lises de sensibilidade e cen&aacute;rios. A **An&aacute;lise de M&uacute;ltiplos** recebeu **30%** por servir como teste de realidade de mercado contempor&acirc;neo, mitigando vieses do DCF. **Transa&ccedil;&otilde;es Precedentes** ficaram com **20%** por refletirem pr&ecirc;mios de controle e condi&ccedil;&otilde;es espec&iacute;ficas de M&amp;A que nem sempre se aplicam ao valor standalone.
 
-### Análise das Divergências
+### An&aacute;lise das Diverg&ecirc;ncias
 
-[Preencher analisando por que diferentes metodologias resultaram em valores diferentes]
+&Agrave;s diferen&ccedil;as decorrem principalmente de: (i) **pr&ecirc;mio de controle** embutido nos m&uacute;ltiplos de precedentes (↑ valor), (ii) **sensibilidade do DCF** a WACC e g (pode ↑/↓ valor), e (iii) **n&iacute;vel de margens e alavancagem** relativo aos peers que informam m&uacute;ltiplos de mercado. Momentos distintos do ciclo do agro (c&acirc;mbio, pre&ccedil;o da soja) tamb&eacute;m criam descolamentos tempor&aacute;rios entre m&eacute;todos.
 
-## Cenários de Valuation
+## Cen&aacute;rios de Valuation
 
-### Cenário Pessimista
-
-**Principais Premissas Alteradas**:
-- [Preencher premissa 1]
-- [Preencher premissa 2]
-- [Preencher premissa 3]
-
-**Valor por Ação**: [Preencher]
-
-**Probabilidade**: [Preencher] %
-
-**Drivers do Cenário**: [Preencher]
-
-### Cenário Base
-
-**Valor por Ação**: [Preencher]
-
-**Probabilidade**: [Preencher] %
-
-### Cenário Otimista
+### Cen&aacute;rio Pessimista
 
 **Principais Premissas Alteradas**:
-- [Preencher premissa 1]
-- [Preencher premissa 2]
-- [Preencher premissa 3]
+- WACC +0,5 pp vs base; g -0,25 pp.
+- Margem EBITDA -1 pp; crescimento inicial -1 pp.
+- C&acirc;mbio desfavor&aacute;vel (↑ USD/BRL) e queda/modera&ccedil;&atilde;o do pre&ccedil;o da soja.
 
-**Valor por Ação**: [Preencher]
+**Valor por A&ccedil;&atilde;o**: N/A (Equity aproximado: **$96.8 Bi**)
+**Probabilidade**: 25%
+**Drivers do Cen&aacute;rio**: Press&atilde;o de custos por c&acirc;mbio, margens comprimidas, demanda do produtor enfraquecida.
 
-**Probabilidade**: [Preencher] %
+### Cen&aacute;rio Base
 
-**Drivers do Cenário**: [Preencher]
+**Valor por A&ccedil;&atilde;o**: N/A (Equity aproximado: **$101.1 Bi**)
+**Probabilidade**: 50%
+**Drivers do Cen&aacute;rio**: Execu&ccedil;&atilde;o est&aacute;vel, margens recorrentes, ambiente macro neutro.
 
-## Resumo dos Cenários
+### Cen&aacute;rio Otimista
 
-<p style={{textAlign: 'center'}}>Tabela 15 - Resumo dos Cenários</p>
+**Principais Premissas Alteradas**:
+- WACC -0,5 pp vs base; g +0,25 pp.
+- Margem EBITDA +1 pp; crescimento inicial +1 pp.
+- C&acirc;mbio favor&aacute;vel (↓ USD/BRL) e pre&ccedil;os agr&iacute;colas sustentados.
 
-| Cenário | Valor por Ação | Probabilidade | Drivers Principais |
+**Valor por A&ccedil;&atilde;o**: N/A (Equity aproximado: **$108.3 Bi**)
+**Probabilidade**: 25%
+**Drivers do Cen&aacute;rio**: Ganho de produtividade, melhor mix de pre&ccedil;os, pipeline de P&amp;D e solu&ccedil;&otilde;es digitais/biol&oacute;gicas acelerando ado&ccedil;&atilde;o.
+
+## Resumo dos Cen&aacute;rios
+
+<p style={{textAlign: 'center'}}>Tabela 15 - Resumo dos Cen&aacute;rios</p>
+
+| Cen&aacute;rio | Valor por A&ccedil;&atilde;o | Probabilidade | Drivers Principais |
 |---------|----------------|---------------|-------------------|
-| Pessimista | [Valor] | [%] | [Drivers] |
-| Base | [Valor] | [%] | [Drivers] |
-| Otimista | [Valor] | [%] | [Drivers] |
+| Pessimista | N/A (Equity $96.8 Bi) | 25% | C&acirc;mbio adverso, margens -1 pp, g -0,25 pp |
+| Base | N/A (Equity $101.1 Bi) | 50% | Execu&ccedil;&atilde;o est&aacute;vel, premissas base de WACC e g |
+| Otimista | N/A (Equity $108.3 Bi) | 25% | C&acirc;mbio favor&aacute;vel, margens +1 pp, g +0,25 pp |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
